@@ -1,2 +1,5 @@
-# design-patterns
-📚 Here I store all I know about Design Patterns
+# 🛠️ Design Patterns
+💡 Every pattern has an example in an Ecommerce context
+
+## List
+- Factory Pattern
