@@ -1,5 +1,5 @@
 /*
-    🛠️ Creational Design Pattern.
+    Factory Pattern
     Provides a way to creat objects while HIDING the creation logic.
     You call a method, and it returns an object tailored to your request.
 
