@@ -7,4 +7,4 @@
 
 ## Creational Design Patterns
 - [Singleton](./Creational/singleton.ts)
-- [Factory](./Creational/factory.ts) 
+- [Factory](./Creational/factory.ts)
